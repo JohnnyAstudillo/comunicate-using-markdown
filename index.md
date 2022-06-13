@@ -18,3 +18,6 @@ class Uso
     Uso(std::string, int);
     ~Uso();
 }
+```
+- [x] Turn into GitHub Pages
+- [ ] Outline my portfolio
